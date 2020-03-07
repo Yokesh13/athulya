@@ -65,3 +65,45 @@
     </pluginManagement>
   </build>
 </project>
+
+1. You're on a shift and you have a Production Outage situation, what do you do?
+
+ 
+2. How to check if you have an EC2 instance check failure (what are the symptoms)?
+
+ 
+
+3. Your Engineering team called you because they need a data from an EC2 instance they just terminated. What fo you tell them, can you recover their data?
+
+ 
+
+4. How do you troubleshoot if you cannot SSH into an AWS instance?
+
+ 
+
+5. Name some basic linux monitoring commands?
+
+ 
+
+6. What is a load average?
+
+ 
+
+7. Explain different kind of redirections in bash?
+
+ 
+
+8. How to create swap space in Linux?
+
+ 
+
+9. What's the difference between on-demand, spot and reserved ec2 instances?
+
+ 
+
+10. What are the different s3 storage classes and their use cases?
+
+ 
+
+11. How to troubleshoot if instance unable to boot?
+
